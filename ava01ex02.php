@@ -1,3 +1,11 @@
+//Escreva um algoritmo para encontrar três números consecutivos de um array que
+//somados o resultado é igual a zero:
+//Input : array(-1,0,1,2,-1,-4);
+//Output : array([0] => -1 + 0 + 1 = 0);0   
+
+
+
+
 <!DOCTYPE html>
 <html>
 <body>
