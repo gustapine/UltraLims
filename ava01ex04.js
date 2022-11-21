@@ -4,7 +4,7 @@ const encontreSolitario = (arr) => {
     for (const num of arr) {
         if (arr.indexOf(num) === arr.lastIndexOf(num)) return num;
     }
-    return 'No lonely integers.';
+    return "There's nothing here bro.";
 };
 
 
