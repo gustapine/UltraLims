@@ -18,7 +18,7 @@ Can be found right on the root of this repository.
 There's a separate folder only for this one.
 
 ```bash
-gustapine/UltraLims/tree/main/API-CEP
+API-CEP
 ```
 **BUT** it can also be found in other repository:
 
