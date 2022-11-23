@@ -18,11 +18,11 @@ Can be found right on the root of this repository.
 There's a separate folder only for this one.
 
 ```bash
-API-CEP
+gustapine/UltraLims/tree/main/API-CEP
 ```
 **BUT** it can also be found in other repository:
 
 ```bash
-'apiviacep'
+gustapine/apiviacep
 ```
 The final product can be found here: [VIA CEP](https://apiviacep.vercel.app).
