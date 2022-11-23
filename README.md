@@ -1,6 +1,6 @@
 # UltraLims
 
-### This is repository contains the answers from the application to UltraLims.
+### This repository contains the answers from the application to UltraLims.
 
 Hi, my name is Gustavo Henrique Dias and this is  my application to UltraLims. This repository contains all the answers from the test I made. It can be separated in two parts, first of all the logical exercises and then, the last one, an exercise with skill requests.
 
