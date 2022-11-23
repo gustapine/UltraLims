@@ -1,3 +1,9 @@
+//Escreva um algoritmo que receba um numero e que apartir deste numero construa
+//um array com a sequencia fibonacci e com o numero de elementos sendo o
+//informado:
+//Input : 6;
+//Output : array (1, 1, 2, 3, 5, 8);
+
 
 ///creating function
 function fibonacci(n){
