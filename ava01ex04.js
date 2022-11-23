@@ -1,3 +1,8 @@
+//Escreva um algoritmo para encontrar um único número de um array que não se
+//repita duas vezes:
+//Input : array(5, 3, 4, 3, 4);
+//Output : array
+
 const array = [5, 3, 4, 3, 4];
 
 const encontreSolitario = (arr) => {
