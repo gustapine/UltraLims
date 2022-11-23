@@ -20,4 +20,10 @@ There's a separate folder only for this one.
 ```bash
 API-CEP
 ```
+**BUT** it can also be found in other repository:
+
+```bash
+apiviacep
+```
+The final product can be found here: [VIA CEP](https://apiviacep.vercel.app).
 
